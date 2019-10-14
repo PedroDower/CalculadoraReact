@@ -31,6 +31,7 @@ export default class Calculadora extends Component {
                     
                     if (operacao != '0') { 
                         this.setState({aguardandoNumero: false});
+                        //Oi
                     }
                 }
                 else {
