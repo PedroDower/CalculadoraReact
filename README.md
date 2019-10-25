@@ -3,6 +3,7 @@
 ### Requisitos:
 
 - NPM
+- Git
 
 ### Passos para instalar e usar:
 
